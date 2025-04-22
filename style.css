@@ -187,7 +187,7 @@
 
 .foot {
     margin-top: 70px;
-    background-color: rgb(35, 34, 34);
+    background-color: black;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -239,9 +239,9 @@
 }
 
 .copyright {
-    border-top: 1px solid wheat;
+    border-top: 1px solid rgb(30, 22, 9);
     padding: 30px 20px; 
-    background-color: rgb(35, 34, 34);
+    background-color: black;
     display: flex;
     flex-wrap: wrap; 
     justify-content: center; 
